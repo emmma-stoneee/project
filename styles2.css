@@ -1,0 +1,47 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+} 
+
+.link{ 
+    color:blue;
+    font-size: 20px;
+
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedtext{
+    font-style: italic;
+    color: #003da5;
+}
+
+body{
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+.footer{
+    height: 25px;
+    font-size: 10px;
+    padding-top: 15px;
+    background-color: silver;
+    color: black;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    position: fixed;
+}
+
+ul{
+    list-style-position:inside;
+
+}
+
+ol{
+    list-style-position:inside;
+}

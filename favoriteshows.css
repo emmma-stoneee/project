@@ -1,0 +1,29 @@
+body{
+    text-align: center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link{
+    color: blue;
+    font-style: italic;
+  } 
+.title{
+    color: rgb(88, 88, 167);
+    font-size: 30px;
+    font-style: bold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.footer{
+    height: 25px;
+    font-size: 10px;
+    padding-top: 15px;
+    background-color: silver;
+    color: black;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    position: fixed;
+}
